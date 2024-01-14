@@ -1,4 +1,4 @@
-import { fibonacci } from '.'
+import { fibonacci } from './index'
 
 describe('Exercise 02: Fibonacci sequence', () => {
   it.each([

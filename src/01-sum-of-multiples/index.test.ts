@@ -1,4 +1,4 @@
-import { sumOfMultiples } from '.'
+import { sumOfMultiples } from './index'
 
 describe('Exercise 01: Sum of multiples', () => {
   it.each([
